@@ -1,0 +1,13 @@
+{
+  "name": "kapi-static",
+  "version": "0.0.0",
+  "scripts": {
+    "pull": "git pull origin master",
+    "push": "git add . && git commit -m 'x' && git push origin master"
+  },
+  "author": "magneto777",
+  "license": "ISC",
+  "files": [
+    "src/"
+  ]
+}
